@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 sabrina.damaceno@escola.pr.gov.br
 Formanda na area de Humanas: História
-Atuando atualmete na area de formação e Pensamento Computacional.
+Atuando atualmente na area de formação e Pensamento Computacional.
 
 
