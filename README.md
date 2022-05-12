@@ -9,5 +9,5 @@ SabriGoveia/SabriGoveia is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 sabrina.damaceno@escola.pr.gov.br
-Oi sou Sabrina Damaceno
-Professora de História e no momento atuando com Pensamanto Computacional
+
+
