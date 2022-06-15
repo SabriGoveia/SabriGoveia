@@ -1,10 +1,12 @@
 -** OLÁ EU SOU A PROFESSORA SABRINA 
 - 
 -   👋 Hi, I’m @SabriGoveia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Estou interessada em apresender programação. 
+- 🌱 I’m currently learning ..Github e Javascript
+- 💞️ I’m looking to collaborate  com meus alunos 
+- 📫 How to reach me ... sabrina.damaceno@escola.pr.gov.br
+- 
+- 
 
 <!---
 SabriGoveia/SabriGoveia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
