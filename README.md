@@ -1,7 +1,7 @@
 -** OLÁ EU SOU A PROFESSORA SABRINA 
 - 
 -   👋 Hi, I’m @SabriGoveia
-- 👀 Estou interessada em apresender programação. 
+- 👀 Estou interessada em aprender programação e quem sabe aprofundar também está nova linguagem.
 - 🌱 I’m currently learning ..Github e Javascript
 - 💞️ I’m looking to collaborate  com meus alunos 
 - 📫 
