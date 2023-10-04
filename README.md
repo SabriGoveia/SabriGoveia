@@ -18,5 +18,8 @@ You can click the Preview link to take a look at your changes.
 sabrina.damaceno@escola.pr.gov.br
 Formanda na area de Humanas: História
 Atuando atualmente na area de formação e Pensamento Computacional.
+- Este ano é meu
+- ![](https://naescola.codeiot.org.br/wp-content/uploads/2021/02/scratch.jpg)
+
 
 
