@@ -1,6 +1,7 @@
 -** OLÁ EU SOU A PROFESSORA SABRINA 
 - 
 -   👋 Hi, I’m @SabriGoveia
+-   ![](https://pixabay.com/pt/gifs/cora%C3%A7%C3%A3o-rom%C3%A2ntico-girando-3135/)
 - 👀 Estou interessada em aprender programação e quem sabe aprofundar também está nova linguagem.
 - 🌱 I’m currently learning ..Github e Javascript tudo isso no alura [ALURA] (HTTPS:// alura.com.br)
 - 💞️ I’m looking to collaborate  com meus alunos 
@@ -21,6 +22,7 @@ Formanda na area de Humanas: História
 Atuando atualmente na area de formação e Pensamento Computacional.
 - Este ano é meu
 - ![](https://naescola.codeiot.org.br/wp-content/uploads/2021/02/scratch.jpg)
+- 
 
 ![https://www.palaciodasfestas.com.br/pub/media/catalog/product/cache/6fb2a49fda90fa3bc27e8290a21c793e/c/o/corinthians_2023_festcolor_painel_cartonado_mega_90346.jpg ]
 
