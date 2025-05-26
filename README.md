@@ -21,5 +21,6 @@ Atuando atualmente na area de formação e Pensamento Computacional.
 - Este ano é meu
 - ![](https://naescola.codeiot.org.br/wp-content/uploads/2021/02/scratch.jpg)
 
+![https://www.palaciodasfestas.com.br/pub/media/catalog/product/cache/6fb2a49fda90fa3bc27e8290a21c793e/c/o/corinthians_2023_festcolor_painel_cartonado_mega_90346.jpg ]
 
 
