@@ -1,7 +1,7 @@
 -** OLÁ EU SOU A PROFESSORA SABRINA 
 - 
 -   👋 Hi, I’m @SabriGoveia
--   ![](https://pixabay.com/pt/gifs/cora%C3%A7%C3%A3o-rom%C3%A2ntico-girando-3135/)
+-   ![https://pixabay.com/pt/gifs/cora%C3%A7%C3%A3o-rom%C3%A2ntico-girando-3135/]()
 - 👀 Estou interessada em aprender programação e quem sabe aprofundar também está nova linguagem.
 - 🌱 I’m currently learning ..Github e Javascript tudo isso no alura [ALURA] (HTTPS:// alura.com.br)
 - 💞️ I’m looking to collaborate  com meus alunos 
